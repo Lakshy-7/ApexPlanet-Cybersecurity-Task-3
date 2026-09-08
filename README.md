@@ -1,6 +1,9 @@
 ApexPlanet Cybersecurity & Ethical Hacking Internship — Task 3
+
 Web Application Security
+
 Scope
+
 All practical testing was performed against the intentionally vulnerable DVWA application running locally on 127.0.0.1.
 
 Completed Areas
