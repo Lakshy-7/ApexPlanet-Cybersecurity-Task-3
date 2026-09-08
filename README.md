@@ -78,4 +78,4 @@ These exercises were performed only in an intentionally vulnerable local trainin
 [Watch the complete Task 3 demonstration on LinkedIn](YOUR_LINKEDIN_POST_LINK)
 
 ### Video File
-[ApexPlanet Task 3 Demo Video]()
+[ApexPlanet Task 3 Demo Video](https://github.com/Lakshy-7/ApexPlanet-Cybersecurity-Task-3/blob/main/Task3_Demo_GitHub_Under25MB.mp4)
